@@ -1,0 +1,7 @@
+# Ignore Obsidian workspace state (keeps repo clean for peers)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
